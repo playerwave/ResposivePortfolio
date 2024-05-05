@@ -65,7 +65,7 @@ function Contact() {
             placeholder="Ennter your message"
           ></textarea>
           <button type="submit" className="contact-submit">
-            Submit
+            Submit Now
           </button>
         </form>
       </div>
